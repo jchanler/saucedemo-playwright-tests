@@ -17,9 +17,3 @@ export const TestUsers = {
     password: process.env.PROBLEM_PASSWORD || 'secret_sauce'
   }
 };
-
-export const Products = {
-  SAUCE_LABS_BACKPACK: 'sauce-labs-backpack',
-  SAUCE_LABS_BIKE_LIGHT: 'sauce-labs-bike-light',
-  SAUCE_LABS_BOLT_TSHIRT: 'sauce-labs-bolt-t-shirt'
-}; 
