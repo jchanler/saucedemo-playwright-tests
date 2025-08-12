@@ -1,10 +1,10 @@
-# SauceDemo Playwright Tests
+# Saucedemo Playwright Tests
 
-A simple Playwright TypeScript framework for testing the SauceDemo application.
+A simple Playwright TypeScript framework for testing the Swag Lags demo site at https://www.saucedemo.com/.
 
 ## Setup
 
-1. Use the correct Node.js version:
+1. Use the correct Node version:
 ```bash
 nvm use
 ```
