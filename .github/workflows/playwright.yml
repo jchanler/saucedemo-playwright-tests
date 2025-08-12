@@ -38,6 +38,6 @@ jobs:
     - name: Publish CTRF Test Report
       uses: ctrf-io/github-test-reporter@v1
       with:
-        report-path: './ctrf/*.json'
+        report-path: './ctrf/ctrf-report.json'
         suite-folded-report: true
       if: always()
